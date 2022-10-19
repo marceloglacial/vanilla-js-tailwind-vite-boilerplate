@@ -1,7 +1,6 @@
-import content from './components/Content/content';
-import header from './components/Header/header';
 import './style.css';
 import styles from './mainStyles';
+import { content, header } from './components';
 
 document.querySelector('#app').innerHTML = `
   <div class='${styles.main}'>
