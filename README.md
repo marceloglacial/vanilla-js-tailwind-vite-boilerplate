@@ -1,4 +1,4 @@
-# Vite + Tailwind + Vanilla Js Boiletrplate
+# Vite + Tailwind + Vanilla Js Boilerplate
 
 ## Install
 
