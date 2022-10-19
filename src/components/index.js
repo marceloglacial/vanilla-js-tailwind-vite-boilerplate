@@ -1,4 +1,4 @@
-import header from './headers/header';
-import content from './contents/content';
+import header from './header/header';
+import content from './content/content';
 
 export { header, content };
